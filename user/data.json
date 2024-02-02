@@ -1,0 +1,34 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "products": [
+        {
+          "id": 1,
+          "name": "FinePix Pro2 3D Camera",
+          "price": 1800,
+          "photo": "images/sp1.webp"
+        },
+        {
+          "id": 2,
+          "name": "XP 1155 Intel Core Laptop",
+          "price": 1000,
+          "photo": "laptop.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "products": [
+        {
+          "id": 3,
+          "name": "Luxury Ultra thin Wrist Watch",
+          "price": 500,
+          "photo": "watch.jpg"
+        }
+      ]
+    }
+  ]
+}
